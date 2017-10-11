@@ -1,4 +1,4 @@
-# **Instructions**
+# **Star Wars App**
 
 * Dun dun dun, dun duh dun, dun duh dun....
 
